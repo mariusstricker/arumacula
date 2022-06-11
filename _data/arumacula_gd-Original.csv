@@ -1,4 +1,4 @@
-pid,artist,location,label,_date,object_type,current_location,order,layout,collection,
+pid,artist,location,label,_date,object_type,current_location,order
 Obj1,unknown,unknown,Ackerstiefmuetterchen Viola arvensis,1925-1959,Glasdia,Stiftung Pestalozzianum,https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj1.jpg,00
 Obj10,unknown,unknown,Feld-Kranzenzian Gentiana campestris,1925-1950,Glasdia,Stiftung Pestalozzianum,https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj10.jpg,09
 Obj11,unknown,unknown,Flatter-Binse Juncus effusus,1925-1950,Glasdia,Stiftung Pestalozzianum,https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj11.jpg,10
