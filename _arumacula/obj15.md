@@ -10,4 +10,7 @@ order: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/
 ! '': '14'
 layout: qatar_item
 collection: arumacula
+thumbnail: "/img/derivatives/iiif/images/obj15/full/181,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj15/manifest.json"
+full: "/img/derivatives/iiif/images/obj15/full/full/0/default.jpg"
 ---
