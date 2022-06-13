@@ -103,11 +103,11 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Über'
     sub:
-      - label: 'Wax'
+      - label: 'Glasdia'
         link: '/about/'
-      - label: 'Documentation'
+      - label: 'Dokumentation'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
