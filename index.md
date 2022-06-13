@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: arvensis
+  collection: arumacula
   pid: obj1
   y: 25%
   height: '500px'
