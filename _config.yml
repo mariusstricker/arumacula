@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Arumacula'
+title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://mariusstricker.github.io'
 baseurl:          '/arumacula'
@@ -65,7 +65,7 @@ kramdown:
 collections:
   exhibits:
     output: true
- arumacula: # name of collection
+  arumacula: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
