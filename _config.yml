@@ -69,7 +69,7 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'arumacula.tsv' # path to the metadata file within `_data`
+      source: '_date/arumacula.tsv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/arumacula' # path to the directory of images within `_data`
 
