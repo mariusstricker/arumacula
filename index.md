@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: arumacula
+  collection: qatar
   pid: obj10
   y: 25%
   height: '500px'
