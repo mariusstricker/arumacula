@@ -6,8 +6,8 @@ label: Bittersuesser Nachtschatten Solanum dulcamara
 _date: 1925-1950
 object_type: Glasdia
 current_location: Stiftung Pestalozzianum
-order: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj2.jpg
-! '': '01'
+source: https://github.com/mariusstricker/glasdiashow/blob/main/_data/raw_images/glasdia/obj2.jpg
+order: '01'
 layout: qatar_item
 collection: arumacula
 thumbnail: "/img/derivatives/iiif/images/obj2/full/205,/0/default.jpg"
